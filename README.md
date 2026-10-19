@@ -6,6 +6,6 @@ I am keen to join WhiteHats because I want to build a strong foundation in cyber
 
 ## Cybersecurity news I recently read
 
-On 19 October 2026, Reuters reported that a security researcher had observed a hacker using AI agents to probe websites belonging to more than 100 companies. The report is a reminder that defenders need to account for automated attacks and respond quickly when suspicious activity is detected.
+On 12 October 2026, Anthropic's Frontier Red Team reported running a 26-billion-parameter model across 15 inexpensive Android TV boxes connected together. The experiment showed how ordinary, low-cost devices could collectively provide computing power for AI inference. Anthropic also discussed the possible cybersecurity risks of AI systems spreading across poorly secured internet-connected devices; the TV-box demonstration itself was a controlled experiment, not a real-world infection.
 
-[Read the Reuters report](https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/)
+[Read Anthropic's research](https://www.anthropic.com/research/self-replicating-ai)
