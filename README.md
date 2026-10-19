@@ -6,6 +6,6 @@ I am keen to join WhiteHats because I want to build a strong foundation in cyber
 
 ## Cybersecurity news I recently read
 
-On 12 October 2026, Anthropic's Frontier Red Team reported running a 26-billion-parameter model across 15 inexpensive Android TV boxes connected together. The experiment showed how ordinary, low-cost devices could collectively provide computing power for AI inference. Anthropic also discussed the possible cybersecurity risks of AI systems spreading across poorly secured internet-connected devices; the TV-box demonstration itself was a controlled experiment, not a real-world infection.
+I recently read about a study by Anthropic's Frontier Red Team. They connected 15 low-cost Android TV boxes and ran a 26-billion-parameter AI model across them. I found this interesting because it shows that devices we usually use for entertainment can also work together to run AI models. The researchers also discussed the security risks if poorly protected devices were compromised and used this way. Their TV-box test was done in a controlled setup; it did not involve infecting real devices.
 
 [Read Anthropic's research](https://www.anthropic.com/research/self-replicating-ai)
